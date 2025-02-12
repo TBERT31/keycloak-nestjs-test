@@ -1,0 +1,49 @@
+# compiled output
+/nestjs-keycloak-intergration/dist
+/nestjs-keycloak-intergration/node_modules
+/nestjs-keycloak-intergration/build
+
+# Logs
+/nestjs-keycloak-intergration/logs
+/nestjs-keycloak-intergration/*.log
+/nestjs-keycloak-intergration/npm-debug.log*
+/nestjs-keycloak-intergration/pnpm-debug.log*
+/nestjs-keycloak-intergration/yarn-debug.log*
+/nestjs-keycloak-intergration/yarn-error.log*
+/nestjs-keycloak-intergration/lerna-debug.log*
+
+# OS
+/nestjs-keycloak-intergration/.DS_Store
+
+# Tests
+/nestjs-keycloak-intergration/coverage
+/nestjs-keycloak-intergration/.nyc_output
+
+# IDEs and editors
+/nestjs-keycloak-intergration/.idea
+/nestjs-keycloak-intergration/.project
+/nestjs-keycloak-intergration/.classpath
+/nestjs-keycloak-intergration/.c9/
+/nestjs-keycloak-intergration/*.launch
+/nestjs-keycloak-intergration/.settings/
+/nestjs-keycloak-intergration/*.sublime-workspace
+
+# IDE - VSCode
+/nestjs-keycloak-intergration/.vscode/*
+/nestjs-keycloak-intergration/!.vscode/settings.json
+/nestjs-keycloak-intergration/!.vscode/tasks.json
+/nestjs-keycloak-intergration/!.vscode/launch.json
+/nestjs-keycloak-intergration/!.vscode/extensions.json
+
+# temp directory
+.temp
+.tmp
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
